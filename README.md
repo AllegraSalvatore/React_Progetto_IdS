@@ -283,7 +283,5 @@ Its main goals are:
 <p align="center">
   <strong>CSV Explorer</strong>
   <br />
-  <em>Less time searching. More time understanding.</em>
-  <br /><br />
   <a href="https://github.com/AllegraSalvatore/React_Progetto_IdS">View Repository</a>
 </p>
